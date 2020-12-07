@@ -1,0 +1,14 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 192.168.10.10:8848
+        file-extension: yaml
+      discovery:
+        server-addr: 192.168.10.10:8848
+
+  application:
+    name: spring-cloud-alibaba-boilerplate
+
+server:
+  port: 7001
