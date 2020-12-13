@@ -1,6 +1,6 @@
 spring:
   application:
-    name: provder
+    name: provider
   cloud:
     nacos:
       config:
