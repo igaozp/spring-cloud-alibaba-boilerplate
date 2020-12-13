@@ -9,6 +9,7 @@
     <modules>
         <module>discovery-server</module>
         <module>provider</module>
+        <module>consumer</module>
     </modules>
     <name>spring-cloud-alibaba-boilerplate</name>
     <description>Demo project for Spring Boot</description>

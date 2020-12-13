@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: consumer
+  cloud:
+    nacos:
+      config:
+        server-addr: 192.168.10.10:8848
+        file-extension: yaml
+        refresh-enabled: on
+      discovery:
+        server-addr: 192.168.10.10:8848
+
+server:
+  port: 8011
