@@ -8,6 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>discovery-server</module>
+        <module>provider</module>
     </modules>
     <name>spring-cloud-alibaba-boilerplate</name>
     <description>Demo project for Spring Boot</description>
